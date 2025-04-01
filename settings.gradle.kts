@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Zenmode"
+rootProject.name = "zenmode"
 include(":app")
